@@ -52,6 +52,32 @@ C is a powerful general-purpose programming language that is widely used for sys
 
 22. **[21.ControlFlowKeywords.c](https://github.com/vixhnuchandran/c/blob/main/21.ControlFlowKeywords.c)**: Covers various control flow keywords in C, including `break`, `continue`, and `goto`, explaining their purposes and use cases.
 
+23. **[23.2DArrays.c](https://github.com/vixhnuchandran/c/blob/main/23.2DArrays.c)**: Demonstrates the use of two-dimensional arrays for storing and manipulating tabular data, including accessing and modifying elements.
+
+24. **[24.ArrayOfStrings.c](https://github.com/vixhnuchandran/c/blob/main/24.ArrayOfStrings.c)**: Shows how to handle arrays of strings in C, including declaration, initialization, and basic string manipulation.
+
+25. **[25.SwapValues.c](https://github.com/vixhnuchandran/c/blob/main/25.SwapValues.c)**: Demonstrates different methods for swapping the values of two variables using temporary variables and pointers.
+
+26. **[26.SortAnArray.c](https://github.com/vixhnuchandran/c/blob/main/26.SortAnArray.c)**: Introduces basic sorting algorithms, such as bubble sort and selection sort, for organizing data in arrays.
+
+27. **[27.Structs.c](https://github.com/vixhnuchandran/c/blob/main/27.Structs.c)**: Explains how to define and use structures for grouping related variables of different data types under a single name.
+
+28. **[28.Typedef.c](https://github.com/vixhnuchandran/c/blob/main/28.Typedef.c)**: Demonstrates how to create new type names (aliases) for existing data types using `typedef`, enhancing code readability.
+
+29. **[29.Enums.c](https://github.com/vixhnuchandran/c/blob/main/29.Enums.c)**: Covers enumerated types (enums) for defining variables that can hold a set of predefined constants, enhancing code readability.
+
+30. **[30.RandomNumbers.c](https://github.com/vixhnuchandran/c/blob/main/30.RandomNumbers.c)**: Shows how to generate random numbers in C using the `rand()` function and seed them with `srand()` for randomness.
+
+31. **[31.BitwiseOperators.c](https://github.com/vixhnuchandran/c/blob/main/31.BitwiseOperators.c)**: Introduces bitwise operators (`&`, `|`, `^`, `~`, `<<`, `>>`) and their applications in low-level programming and data manipulation.
+
+32. **[32.Memory.c](https://github.com/vixhnuchandran/c/blob/main/32.Memory.c)**: Covers concepts of memory management, including stack vs. heap memory allocation and the importance of freeing dynamically allocated memory.
+
+33. **[33.Pointers.c](https://github.com/vixhnuchandran/c/blob/main/33.Pointers.c)**: Provides a deeper understanding of pointers, including pointer arithmetic and the relationship between arrays and pointers.
+
+34. **[34.WritingFiles.c](https://github.com/vixhnuchandran/c/blob/main/34.WritingFiles.c)**: Demonstrates how to create and write data to files using `fopen()` and `fprintf()`, along with error checking for file operations.
+
+35. **[35.ReadingFiles.c](https://github.com/vixhnuchandran/c/blob/main/35.ReadingFiles.c)**: Explains how to read data from files using `fopen()` and `fscanf()`, demonstrating techniques for processing file input.
+
 ## Getting Started
 
 To compile and run the examples, you'll need a C compiler (e.g., GCC) installed on your machine. You can compile an example with the following command:
